@@ -1,0 +1,8 @@
+Uygulama Visual Studio 2017 de yazýlmýþtýr.
+Dil olarak C# programlama kullanýlmýþtýr.
+Framework 4.64 tür.
+
+Uygulama çalýþtýrýldýðýnda 
+
+Start tuþuna basýlýr ve 3 at locationlarýna radom sayý eklenerek ilerlemeye baþlarlar
+finish çizgisine ilk ulaþan at ismi mesaj boxta yazar ve yarýþ biter.
