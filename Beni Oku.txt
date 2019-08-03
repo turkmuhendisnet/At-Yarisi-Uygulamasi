@@ -1,8 +1,8 @@
-Uygulama Visual Studio 2017 de yazılmıştır.
-Dil olarak C# programlama kullanılmıştır.
-Framework 4.64 tür.
+Uygulama Visual Studio 2017 de yazÄ±lmÄ±ÅŸtÄ±r.
+Dil olarak C# programlama kullanÄ±lmÄ±ÅŸtÄ±r.
+.Net Framework 4.6'dÄ±r.
 
-Uygulama çalıştırıldığında 
+Uygulama Ã§alÄ±ÅŸtÄ±rÄ±ldÄ±ÄŸÄ±nda 
 
-Start tuşuna basılır ve 3 at locationlarına radom sayı eklenerek ilerlemeye başlarlar
-finish çizgisine ilk ulaşan at ismi mesaj boxta yazar ve yarış biter.
+Start tuÅŸuna basÄ±lÄ±r ve 3 at locationlarÄ±na radom sayÄ± eklenerek ilerlemeye baÅŸlarlar
+finish Ã§izgisine ilk ulaÅŸan at ismi mesaj boxta yazar ve yarÄ±ÅŸ biter.
